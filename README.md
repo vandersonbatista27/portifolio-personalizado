@@ -1,4 +1,4 @@
-# Portfólio Personalizado
+# Portfólio Personalizado (Em Desenvolvimento)
 
 Este é um portfólio personalizado desenvolvido utilizando HTML, CSS e JavaScript. Ele exibe projetos, especialidades e informações pessoais de forma interativa e estilizada.
 
